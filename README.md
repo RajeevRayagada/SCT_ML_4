@@ -70,7 +70,7 @@ Follow these steps to run the project locally:
 The low validation accuracy indicates overfitting and highlights the need for further optimization.
 
 ### **Training vs. Validation Accuracy Plot**:  
-![Accuracy Plot](https://github.com/RajeevRayagada/SCT_ML_4/blob/main/Training_and_Validation_Accuracy.png)
+![Accuracy Plot](https://github.com/RajeevRayagada/SCT_ML_4/blob/main/Training%20and%20Validation%20accuracy.png)
 
 ---
 
